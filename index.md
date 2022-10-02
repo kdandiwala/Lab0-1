@@ -3,7 +3,7 @@
 
 `System.out.println("Hello World!");` I'm a **Third-Year Computer Engineering major** studying at *UC San Diego*. I love listening to alternative/R&B music, playing recreational basketball, and being a big fan of the Golden State Warriors!
 
-<img src="Screenshots/IMG_7F4FC183C7FE-1.jpeg" width="250"/> <img src="Screenshots/IMG_8850 Medium.jpeg" width="250"/>
+<img src="Screenshots/IMG_7F4FC183C7FE-1.jpeg" width="250" height = "313"/> <img src="Screenshots/IMG_8850 Medium.jpeg" width="250" hieght = "313"/>
 
 My favorite courses at UCSD so far have been (in order):
 1. CSE 100 (Advanced Data Structures and Algorithms)
