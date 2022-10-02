@@ -1,4 +1,5 @@
 # Krish Dandiwala
+Go to [About Me](#about-me), [Experience](#experience) or [CSE 110 Goals](#cse-110-software-engineering-principles)
 ### About Me
 
 `System.out.println("Hello World!");` I'm a **Third-Year Computer Engineering major** studying at *UC San Diego*. I love listening to alternative/R&B music, playing recreational basketball, and being a big fan of the Golden State Warriors!
